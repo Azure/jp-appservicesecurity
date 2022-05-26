@@ -2,7 +2,7 @@
 
 本ドキュメントは Azure App Service と関連するサービス（ Azure Storage / Azure Front Door ）に起こりうる脅威とそれらの対策についてまとめています。
 
-ここで取り上げた製品・サービスの詳細および最新情報は[製品ドキュメント](https://docs.microsoft.com)をご参照ください。なお本ドキュメントは[株式会社ネクストスケープ](https://www.nextscape.net/)にて作成しております。
+ここで取り上げた製品・サービスの詳細および最新情報は[製品ドキュメント](https://docs.microsoft.com)をご参照ください。なお、本ドキュメントの作成には[株式会社ネクストスケープ](https://www.nextscape.net/)様にご協力いただきました。
 
 ## [はじめに](./chapter00.md)
 
